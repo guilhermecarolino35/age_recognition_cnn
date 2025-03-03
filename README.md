@@ -1,2 +1,2 @@
 # age_recognition_cnn
-age recognition task using PyTorch cnn , open cv and pandas
+Trabalho realizado na disciplina de processamento de Imagens, em que a tarefa era fazer o reconhecimento de idade baseado em imagens de faces de pessoas. Foi utilizado o framework Pytorch para a criacao, treinamento e teste da CNN e utilizado pandas e Open CV para o pre-processamento dos dados. O trabalho foi baseado no artigo Age_and_Gender_Prediction_and_Validation.pdf, e maiores detalhes do processo para realizar a tarefa estao em Agerecognitionfinal.pdf(no repositorio)
